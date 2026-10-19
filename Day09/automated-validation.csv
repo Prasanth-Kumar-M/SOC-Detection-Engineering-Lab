@@ -1,0 +1,3 @@
+"EvidenceFile","ProcessId","Image","ParentImage","Expected","Actual","Passed"
+"child-event.xml","1002","C:\Windows\System32\notepad.exe","C:\Windows\System32\notepad.exe","False","False","True"
+"parent-event.xml","1001","C:\Windows\System32\notepad.exe","C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe","True","True","True"

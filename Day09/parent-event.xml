@@ -1,0 +1,7 @@
+﻿<Event>
+  <EventData>
+    <Data Name="Image">C:\Windows\System32\notepad.exe</Data>
+    <Data Name="ParentImage">C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe</Data>
+    <Data Name="ProcessId">1001</Data>
+  </EventData>
+</Event>
