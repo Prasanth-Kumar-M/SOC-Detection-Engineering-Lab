@@ -1,0 +1,3 @@
+"TimeLocal","Process","PID","ParentPID","ParentProcess","SysmonRecordID","SecurityRecordID","Correlation"
+"2026-10-19 21:10:01","notepad.exe","4952","9404","powershell.exe","105510","42337","Matched"
+"2026-10-19 21:10:01","notepad.exe","10916","4952","notepad.exe","105511","42338","Matched"
